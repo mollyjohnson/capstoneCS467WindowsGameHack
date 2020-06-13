@@ -11,15 +11,11 @@ https://drive.google.com/file/d/1lyXyqD3YE1KPET__0WWpGy6cEZ5Xc9ur/view?usp=shari
 
 # Contributions:
 # Molly Johnson
-● Increased Damage for all Weapons Cheat – Creation, Implementation,
-Testing and Refinement
-● Increased Damage for all Spells Cheat – Creation, Implementation,
-Testing and Refinement
-● Unlimited Ammunition Cheat – Creation, Implementation, Testing and
-Refinement
+● Increased Damage for all Weapons Cheat – Creation, Implementation, Testing and Refinement
+● Increased Damage for all Spells Cheat – Creation, Implementation, Testing and Refinement
+● Unlimited Ammunition Cheat – Creation, Implementation, Testing and Refinement
 ● Keep Items Cheat – Creation, Implementation, Testing and Refinement
-● Rapid Fire (No Cooldown) for all Spells and Weapons Cheat – Creation,
-Implementation, Testing and Refinement
+● Rapid Fire (No Cooldown) for all Spells and Weapons Cheat – Creation, Implementation, Testing and Refinement
 ● Runtime Terror Team Logo – Designer
 ● Testing/Debugging
 ● Testing Documentation – Author
