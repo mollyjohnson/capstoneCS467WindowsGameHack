@@ -1,44 +1,19 @@
-# CS467-400-Windows_Game_Hack  
-Project Title: Windows Game Hack Capstone Project. 
- 
-Getting Started:  
-XXX XXX XXX.  
+# CS467-400-Windows-Game-Hack  
+Project Title: Windows Game Hack Capstone Project 
 
-Members:  
-Daniel Rivera  
+Team Members:    
 Molly Johnson  
 Gaetan Ingrassia  
+Daniel Rivera
 
-Directories:  
-Game Hack Source Code - Folder for all source code files  
-Resources - Folder for all resource documents and/or links  
-Templates - folder for all template files for source code creation  
-Documents - Folder for all supplemental notes/documents  
+See setup/demonstration instructions here:
+https://drive.google.com/file/d/10J-wibyjun99fH5q5nqmB9y9teF8QIJL/view?usp=sharing
 
-Objective:  
-Our goal is to deliver an internal .dll hack program written in C++ that has 
-a visual menu for various cheats the user can select, to manipulate 
-Pwn Adventures 3: Pwnie Island. Currently proposed   
-cheats include:  
-	1. invulnerability  
-	2. additional in-game currency  
-	3. weapon effect modification (damage, ammo, recoil, etc.)  
-	4. Modifications to player (speed, jump, mana, etc.  
+See poster describing project here:
+https://drive.google.com/file/d/19COxwfZxDeiCLAoz-79Heydc2SmRuyrS/view?usp=sharing
 
-Installing:
-A step by step series of examples that tell you how to get a development env running.  
+See written report describing project in further detail here:
+https://drive.google.com/file/d/1lyXyqD3YE1KPET__0WWpGy6cEZ5Xc9ur/view?usp=sharing
 
-Testing:  
-List testing info here. 
-
-Deployment:  
-List dev info here.  
-
-Contributing:  
-Name - contribution  
-
-License:  
-List license here.  
-
-Acknowledgments:  
-Place acknowledgments here.  
+Watch video of gameplay with hacks turned on here:
+https://media.oregonstate.edu/media/t/1_s46xrf26
