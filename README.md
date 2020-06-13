@@ -14,6 +14,3 @@ https://drive.google.com/file/d/19COxwfZxDeiCLAoz-79Heydc2SmRuyrS/view?usp=shari
 
 See written report describing project in further detail here:
 https://drive.google.com/file/d/1lyXyqD3YE1KPET__0WWpGy6cEZ5Xc9ur/view?usp=sharing
-
-Watch video of gameplay with hacks turned on here:
-https://media.oregonstate.edu/media/t/1_s46xrf26
